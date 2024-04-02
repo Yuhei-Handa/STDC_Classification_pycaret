@@ -1,5 +1,5 @@
 # STDC_Classification_pycaret
-classify DC events have OS ebvent using STDC(single threshold directional change) with pycaret classification model
+classify DC events have OS event using STDC(single threshold directional change) with pycaret classification model
 
 為替市場におけるDCイベントがOSイベントを持つかどうかを分類するモデルをpycaretを使用して作成しました。
 
