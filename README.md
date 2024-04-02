@@ -5,7 +5,7 @@ classify DC events have OS ebvent using STDC(single threshold directional change
 
 時系列データはJForexを利用しました。
 
-※均衡データにAccuracy, F1-scoreが60%を切っていたため実用には向いていません。
+※均衡データを使用しましたが、Accuracyが60%を切っていたため実用には向いていません。
 
 以下の論文を参考にしました。
 [Machine Learning Classification and Regression Models for Predicting
